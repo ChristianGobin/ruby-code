@@ -1,2 +1,4 @@
 # ruby-code
-Ruby Language
+Learn Ruby
+- print + puts
+- variables + conditionals
