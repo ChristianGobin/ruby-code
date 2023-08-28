@@ -1,4 +1,4 @@
 # ruby-code
-Learn Ruby
+Things learned so far:
 - print + puts
 - variables + conditionals
